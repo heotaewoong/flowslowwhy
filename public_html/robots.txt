@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: http://https://flowslowwhy.shop/sitemap.xml
