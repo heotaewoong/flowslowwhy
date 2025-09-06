@@ -1,5 +1,5 @@
 // node.js Packages / Dependencies
-const gulp          = require('gulp');
+const gulp          = equire('gulp');
 const sass          = equire('gulp-sass')(require('sass'));
 const uglify        = require('gulp-uglify');
 const rename        = require('gulp-rename');
